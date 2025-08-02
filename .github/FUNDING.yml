@@ -1,0 +1,5 @@
+github: [Hypr-Technologies]
+solana: [h4shed.sol]
+custom:
+  - https://donate.hypr.tech/stripe  # Stripe donation page
+  - https://donate.hypr.tech/crypto  # Crypto donation wallet

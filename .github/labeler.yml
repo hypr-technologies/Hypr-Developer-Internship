@@ -1,0 +1,43 @@
+# .github/labeler.yml
+# Automatically adds labels to PRs based on changed files
+
+documentation:
+  - '**/*.md'
+  - 'docs/**'
+
+bug:
+  - '**/*.test.js'
+  - '**/*.test.ts'
+  - '**/__tests__/**'
+
+feature:
+  - 'apps/**'
+  - 'packages/**'
+  - 'components/**'
+
+refactor:
+  - '**/*.refactor.*'
+  - '**/refactor/**'
+
+test needed:
+  - '**/tests/**'
+  - '**/*.spec.js'
+  - '**/*.spec.ts'
+
+template:
+  - 'templates/**'
+
+# Devlings Pods (based on folders or keywords)
+pod-a:
+  - 'pods/pod-a/**'
+pod-b:
+  - 'pods/pod-b/**'
+pod-c:
+  - 'pods/pod-c/**'
+pod-d:
+  - 'pods/pod-d/**'
+pod-e:
+  - 'pods/pod-e/**'
+
+capstone:
+  - 'capstone/**'

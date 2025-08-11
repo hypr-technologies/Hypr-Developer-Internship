@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Give content interns ownership over storytelling, marketing, and product education around each template being built — while testing their ability to work cross-functionally with dev Pods, create standout content, and publish polished deliverables.
+Give content interns ownership over storytelling, marketing, and product education around each template being built — while testing their ability to work cross-functionally with dev Pods, create standout content, and publish polished deliverables. We will break down the developer tools required to participate, this project will require several paid subscriptions in order to participate - we are asking for [sponsors](https://github.com/sponsors/hypr-technologies) to consider contributing resources we need.
 
 ### 🧠 Core Mission
 
@@ -67,6 +67,7 @@ Judged on:
 ### 🧰 Suggested Tools
 
 * ✍️ Copy: Notion, Google Docs, Hemingway, Grammarly, 
+* 🤖 Artificial Intelligence: Any coding agent code-generation of your choice, more on this later.
 * 🖼️ Design: Figma, Canva, ChatGPT, Claude, Huggingface, ShadCDN, TailwindCSS, Context Theming, [Color Designer](https://colordesigner.io/color-palettes), 
 * 🎥 Video: Loom, Screen Studio, Davincii Resolve, Photoshop, Illustrator, 
 * 📦 Dev Collaboration: GitHub markdown, PR descriptions, GitHub Project, E-Mail, Social Media Policy (Slack, Discord, Telegram [Channel](https://t.me/fusedgg) / Group, LinkedIn, X, Facebook), Zoom, Google Meet, 

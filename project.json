@@ -2,10 +2,11 @@
   "name": "Hypr Bootcamp – Developer Internship",
   "description": "GitHub Project board for the 11-week Hypr Bootcamp Developer Internship program.",
   "columns": [
-    { "name": "Backlog" },
-    { "name": "In Progress" },
-    { "name": "Review" },
-    { "name": "Done" }
+    { "name": "🌱 Backlog"},
+    { "name": "🔧 In Progress"},
+    { "name": "🧠 Review"},
+    { "name": "✅ Done"},
+    { "name": "🚫 Blocked"}
   ],
   "labels": [
     { "name": "frontend", "color": "1f77b4", "description": "Frontend-related task" },
@@ -15,13 +16,13 @@
     { "name": "lecture", "color": "8c564b", "description": "Lecture content" },
     { "name": "assignment", "color": "e377c2", "description": "Student assignment" },
     { "name": "deliverable", "color": "7f7f7f", "description": "Required deliverable" },
-    { "name": "milestone", "color": "bcbd22", "description": "Major milestone" }
+    { "name": "milestone", "color": " ", "description": "Major milestone" }
   ],
   "cards": [
     { "note": "📚 Week 1 Lecture – Orientation & Setup", "labels": ["lecture"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-1/README.md" },
     { "note": "📝 Week 1 Assignment – Environment Setup", "labels": ["assignment"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-1/assignments.md" },
     { "note": "📦 Week 1 Deliverable – Hello World API", "labels": ["deliverable","backend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-1/deliverables.md" },
-    { "note": "🏁 Week 1 Milestone – Bootcamp Kickoff Complete", "labels": ["milestone"], "column": "Backlog" },
+    { "note": "🏁 Week 1 Milestone – Internship Kickoff Complete", "labels": ["milestone"], "column": "Backlog" },
 
     { "note": "📚 Week 2 Lecture – GitHub Project Workflow", "labels": ["lecture"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-2/README.md" },
     { "note": "📝 Week 2 Assignment – Kanban Board Setup", "labels": ["assignment","devops"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-2/assignments.md" },

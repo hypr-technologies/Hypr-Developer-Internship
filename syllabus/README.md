@@ -1,4 +1,4 @@
-# Hypr Bootcamp – 11 Week Syllabus
+# Hypr Developer Interns – 11 Week Syllabus
 
 ![CI/CD](https://github.com/hypr-technologies/Hypr-Developer-Internship/actions/workflows/ci.yml/badge.svg)
 ![Project Status](https://img.shields.io/github/project-card/hypr-technologies/Hypr-Developer-Internship)

@@ -1,0 +1,76 @@
+{
+  "name": "Hypr Bootcamp – Developer Internship",
+  "description": "GitHub Project board for the 11-week Hypr Bootcamp Developer Internship program.",
+  "columns": [
+    { "name": "Backlog" },
+    { "name": "In Progress" },
+    { "name": "Review" },
+    { "name": "Done" }
+  ],
+  "labels": [
+    { "name": "frontend", "color": "1f77b4", "description": "Frontend-related task" },
+    { "name": "backend", "color": "2ca02c", "description": "Backend-related task" },
+    { "name": "devops", "color": "ff7f0e", "description": "DevOps & infrastructure" },
+    { "name": "design", "color": "9467bd", "description": "UI/UX design task" },
+    { "name": "lecture", "color": "8c564b", "description": "Lecture content" },
+    { "name": "assignment", "color": "e377c2", "description": "Student assignment" },
+    { "name": "deliverable", "color": "7f7f7f", "description": "Required deliverable" },
+    { "name": "milestone", "color": "bcbd22", "description": "Major milestone" }
+  ],
+  "cards": [
+    { "note": "📚 Week 1 Lecture – Orientation & Setup", "labels": ["lecture"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-1/README.md" },
+    { "note": "📝 Week 1 Assignment – Environment Setup", "labels": ["assignment"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-1/assignments.md" },
+    { "note": "📦 Week 1 Deliverable – Hello World API", "labels": ["deliverable","backend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-1/deliverables.md" },
+    { "note": "🏁 Week 1 Milestone – Bootcamp Kickoff Complete", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 2 Lecture – GitHub Project Workflow", "labels": ["lecture"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-2/README.md" },
+    { "note": "📝 Week 2 Assignment – Kanban Board Setup", "labels": ["assignment","devops"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-2/assignments.md" },
+    { "note": "📦 Week 2 Deliverable – Project Board Ready", "labels": ["deliverable"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-2/deliverables.md" },
+    { "note": "🏁 Week 2 Milestone – GitHub Workflow Established", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 3 Lecture – CI/CD Fundamentals", "labels": ["lecture","devops"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-3/README.md" },
+    { "note": "📝 Week 3 Assignment – GitHub Actions Pipeline", "labels": ["assignment","devops"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-3/assignments.md" },
+    { "note": "📦 Week 3 Deliverable – Automated Build & Test", "labels": ["deliverable"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-3/deliverables.md" },
+    { "note": "🏁 Week 3 Milestone – CI/CD Operational", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 4 Lecture – Sprint 1 Part 1 – Real Projects", "labels": ["lecture","frontend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-4/README.md" },
+    { "note": "📝 Week 4 Assignment – UI Implementation", "labels": ["assignment","frontend","design"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-4/assignments.md" },
+    { "note": "📦 Week 4 Deliverable – Sprint 1 UI Component Set", "labels": ["deliverable","frontend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-4/deliverables.md" },
+    { "note": "🏁 Week 4 Milestone – Sprint 1 UI Complete", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 5 Lecture – Sprint 1 Part 2 – API Integration", "labels": ["lecture","backend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-5/README.md" },
+    { "note": "📝 Week 5 Assignment – API Integration", "labels": ["assignment","backend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-5/assignments.md" },
+    { "note": "📦 Week 5 Deliverable – Integrated API Endpoints", "labels": ["deliverable","backend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-5/deliverables.md" },
+    { "note": "🏁 Week 5 Milestone – API Integration Complete", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 6 Lecture – Sprint 2 Part 1 – Databases", "labels": ["lecture","backend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-6/README.md" },
+    { "note": "📝 Week 6 Assignment – Database Schema & Models", "labels": ["assignment","backend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-6/assignments.md" },
+    { "note": "📦 Week 6 Deliverable – Database Connected", "labels": ["deliverable","backend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-6/deliverables.md" },
+    { "note": "🏁 Week 6 Milestone – Database Live", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 7 Lecture – Auth, Payments & Security", "labels": ["lecture","backend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-7/README.md" },
+    { "note": "📝 Week 7 Assignment – Secure Auth & Payment Flow", "labels": ["assignment","backend","devops"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-7/assignments.md" },
+    { "note": "📦 Week 7 Deliverable – Secure Transactions Enabled", "labels": ["deliverable"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-7/deliverables.md" },
+    { "note": "🏁 Week 7 Milestone – Auth & Payments Complete", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 8 Lecture – Sprint 3 Part 1 – Advanced Frontend", "labels": ["lecture","frontend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-8/README.md" },
+    { "note": "📝 Week 8 Assignment – Advanced UI Features", "labels": ["assignment","frontend","design"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-8/assignments.md" },
+    { "note": "📦 Week 8 Deliverable – Fully Interactive UI", "labels": ["deliverable","frontend"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-8/deliverables.md" },
+    { "note": "🏁 Week 8 Milestone – Advanced UI Complete", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 9 Lecture – Sprint 3 Part 2 – Scaling & Optimization", "labels": ["lecture","devops"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-9/README.md" },
+    { "note": "📝 Week 9 Assignment – Performance Optimization", "labels": ["assignment","devops"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-9/assignments.md" },
+    { "note": "📦 Week 9 Deliverable – Optimized Build", "labels": ["deliverable"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-9/deliverables.md" },
+    { "note": "🏁 Week 9 Milestone – App Optimized", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 10 Lecture – Final Project Part 1", "labels": ["lecture"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-10/README.md" },
+    { "note": "📝 Week 10 Assignment – Final Project Kickoff", "labels": ["assignment"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-10/assignments.md" },
+    { "note": "📦 Week 10 Deliverable – MVP Build", "labels": ["deliverable"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-10/deliverables.md" },
+    { "note": "🏁 Week 10 Milestone – MVP Complete", "labels": ["milestone"], "column": "Backlog" },
+
+    { "note": "📚 Week 11 Lecture – Final Project Part 2", "labels": ["lecture"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-11/README.md" },
+    { "note": "📝 Week 11 Assignment – Project Finalization", "labels": ["assignment"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-11/assignments.md" },
+    { "note": "📦 Week 11 Deliverable – Final Submission", "labels": ["deliverable"], "column": "Backlog", "content_url": "https://github.com/hypr-technologies/Hypr-Developer-Internship/blob/main/week-11/deliverables.md" },
+    { "note": "🏁 Week 11 Milestone – Bootcamp Graduation", "labels": ["milestone"], "column": "Backlog" }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Hypr Developer Internships \u2013 11 Week Syllabus",
+  "columns": [
+    "Todo",
+    "In Progress",
+    "Done"
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Week 1 - Orientation & Setup",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 1 - Orientation & Setup"
+    },
+    {
+      "id": 2,
+      "title": "Week 2 - GitHub Project Workflow",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 2 - GitHub Project Workflow"
+    },
+    {
+      "id": 3,
+      "title": "Week 3 - CI/CD Fundamentals",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 3 - CI/CD Fundamentals"
+    },
+    {
+      "id": 4,
+      "title": "Week 4 - Template Sprint 1 part 1 \u2013 Real Projects",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 4 - Template Sprint 1 part 1 \u2013 Real Projects"
+    },
+    {
+      "id": 5,
+      "title": "Week 5 - Template Sprint 1 part 2 - API Integration",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 5 - Template Sprint 1 part 2 - API Integration"
+    },
+    {
+      "id": 6,
+      "title": "Week 6 - Template Sprint 2 part 1 - Data Persistence with Databases",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 6 - Template Sprint 2 part 1 - Data Persistence with Databases"
+    },
+    {
+      "id": 7,
+      "title": "Week 7 - Template Sprint 2 part 2 - Authentication, Payments & Security",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 7 - Template Sprint 2 part 2 - Authentication, Payments & Security"
+    },
+    {
+      "id": 8,
+      "title": "Week 8 - Template Sprint 3 part 1 - Advanced Frontend Development",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 8 - Template Sprint 3 part 1 - Advanced Frontend Development"
+    },
+    {
+      "id": 9,
+      "title": "Week 9 - Template Sprint 3 part 2 - Scaling & Optimization",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 9 - Template Sprint 3 part 2 - Scaling & Optimization"
+    },
+    {
+      "id": 10,
+      "title": "Week 10 - Final Project & Extra Sprint part 1",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 10 - Final Project & Extra Sprint part 1"
+    },
+    {
+      "id": 11,
+      "title": "Week 11 - Final Project & Extra Sprint part 2",
+      "status": "Todo",
+      "description": "Complete all assignments for Week 11 - Final Project & Extra Sprint part 2"
+    }
+  ]
+}
